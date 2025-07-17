@@ -16,7 +16,6 @@
 - React Router for navigation
 
 ## 🚀 How to Run
-
 ### Backend
 
 ```bash
